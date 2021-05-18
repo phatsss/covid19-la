@@ -1,0 +1,123 @@
+{
+    "country": "laos",
+    "new": 85,
+    "total": 757,
+    "healing": 706,
+    "recovered": 51,
+    "death": 0,
+    "new_health_examination": 4841,
+    "health_examination": 171231,
+    "new_no_genes_found": 4756,
+    "no_genes_found": 170474,
+    "updated_at": "2021-04-30 14:30",
+    "provinces": [
+        {
+            "id": 1,
+            "name": "ນະຄອນຫຼວງວຽງຈັນ",
+            "new": 0,
+            "total": 485
+        },
+        {
+            "id": 2,
+            "name": "ຜົ້ງສາລີ",
+            "new": 0,
+            "total": 3
+        },
+        {
+            "id": 3,
+            "name": "ອຸດົມໄຊ",
+            "new": 0,
+            "total": 3
+        },
+        {
+            "id": 4,
+            "name": "ຫຼວງນ້ຳທາ",
+            "new": 0,
+            "total": 6
+        },
+        {
+            "id": 5,
+            "name": "ບໍ່ແກ້ວ",
+            "new": 0,
+            "total": 25
+        },
+        {
+            "id": 6,
+            "name": "ໄຊຍະບູລີ",
+            "new": 0,
+            "total": 1
+        },
+        {
+            "id": 7,
+            "name": "ຫຼວງພະບາງ",
+            "new": 0,
+            "total": 19
+        },
+        {
+            "id": 8,
+            "name": "ຊຽງຂວາງ",
+            "new": 0,
+            "total": 1
+        },
+        {
+            "id": 9,
+            "name": "ຫົວພັນ",
+            "new": 0,
+            "total": 0
+        },
+        {
+            "id": 10,
+            "name": "ວຽງຈັນ",
+            "new": 0,
+            "total": 7
+        },
+        {
+            "id": 11,
+            "name": "ໄຊສົມບູນ",
+            "new": 0,
+            "total": 1
+        },
+        {
+            "id": 12,
+            "name": "ຄຳມ່ວນ",
+            "new": 0,
+            "total": 1
+        },
+        {
+            "id": 13,
+            "name": "ບໍລິຄຳໄຊ",
+            "new": 0,
+            "total": 1
+        },
+        {
+            "id": 14,
+            "name": "ສະຫວັນນະເຂດ",
+            "new": 0,
+            "total": 22
+        },
+        {
+            "id": 15,
+            "name": "ສາລະວັນ",
+            "new": 0,
+            "total": 6
+        },
+        {
+            "id": 16,
+            "name": "ເຊກອງ",
+            "new": 0,
+            "total": 1
+        },
+        {
+            "id": 17,
+            "name": "ຈຳປາສັກ",
+            "new": 0,
+            "total": 91
+        },
+        {
+            "id": 18,
+            "name": "ອັດຕະປື",
+            "new": 0,
+            "total": 0
+        }
+    ]
+}
